@@ -12,7 +12,7 @@
   background-color: #ffffff;
 
   font-synthesis: none;
-  text-rendering: optimizeLegibility;
+  text-rendering: optimiseLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -22,7 +22,7 @@
 }
 
 html {
-  scroll-behavior: smooth;
+  scroll-behaviour: smooth;
 }
 
 body {

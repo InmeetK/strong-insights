@@ -14,7 +14,7 @@ A modern, responsive web application built with React 19, TypeScript, and Vite. 
 - 📱 **Responsive Design** - Beautiful UI that works seamlessly across all devices
 - 🎨 **Modern Styling** - Custom CSS with gradients, animations, and smooth transitions
 - 🔧 **Developer Experience** - ESLint configuration for code quality
-- 🏗️ **Production Ready** - Optimized build configuration
+- 🏗️ **Production Ready** - Optimised build configuration
 
 ## 🚀 Quick Start
 
@@ -93,7 +93,7 @@ code_test/
 
 ### Footer
 - Multi-column layout
-- Organized links and information
+- Organised links and information
 - Responsive design
 
 ## 🔧 Technology Stack
@@ -114,8 +114,8 @@ code_test/
 
 ## 🎯 Customization
 
-### Colors
-The application uses a consistent color palette defined in the CSS:
+### Colours
+The application uses a consistent colour palette defined in the CSS:
 - Primary: `#667eea` to `#764ba2` (gradient)
 - Secondary: `#ffd89b` to `#19547b` (gradient)
 - Background: `#f8fafc`
